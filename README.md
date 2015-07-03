@@ -4,7 +4,7 @@ A simple initiated Laravel project with Twitter Bootstrap and AngularJS (+ Coffe
 Stack:
 * Laravel 5
 * Twitter Bootstrap
-* AngularJS
+* AngularJS (with CoffeeScript)
 * NodeJS
 * Bower, Composer package managers
 * Gulp for building and deploying a project
